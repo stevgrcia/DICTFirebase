@@ -1,0 +1,23 @@
+{
+  "name": "dict-firebase",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "firebase": "^10.12.2"
+  },
+  "devDependencies": {
+    "webpack": "^5.92.0",
+    "webpack-cli": "^5.1.4",
+    "babel-loader": "^9.1.2", 
+    "@babel/core": "^7.21.0", 
+    "@babel/preset-env": "^7.21.0"
+  }
+}
